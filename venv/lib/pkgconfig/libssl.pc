@@ -1,0 +1,11 @@
+prefix=/home/chinmay/priyanka/ineuron/ineuron_assignemnts/ML_practical/LinearRegression/House_price_prediction/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL-libssl
+Description: Secure Sockets Layer and cryptography libraries
+Version: 1.1.1t
+Requires.private: libcrypto
+Libs: -L${libdir} -lssl
+Cflags: -I${includedir}
