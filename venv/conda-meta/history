@@ -1,4 +1,4 @@
-==> 2023-05-11 12:13:21 <==
+==> 2023-05-17 09:20:51 <==
 # cmd: /home/chinmay/anaconda3/bin/conda create -p venv python==3.8 -y
 # conda version: 4.10.1
 +conda-forge/linux-64::_libgcc_mutex-0.1-conda_forge
@@ -8,14 +8,14 @@
 +conda-forge/linux-64::libffi-3.2.1-he1b5a44_1007
 +conda-forge/linux-64::libgcc-ng-12.2.0-h65d4601_19
 +conda-forge/linux-64::libgomp-12.2.0-h65d4601_19
-+conda-forge/linux-64::libsqlite-3.41.2-h2797004_1
++conda-forge/linux-64::libsqlite-3.42.0-h2797004_0
 +conda-forge/linux-64::libstdcxx-ng-12.2.0-h46fd767_19
 +conda-forge/linux-64::libzlib-1.2.13-h166bdaf_4
 +conda-forge/linux-64::ncurses-6.3-h27087fc_1
 +conda-forge/linux-64::openssl-1.1.1t-h0b41bf4_0
 +conda-forge/linux-64::python-3.8.0-h357f687_5
 +conda-forge/linux-64::readline-8.2-h8228510_1
-+conda-forge/linux-64::sqlite-3.41.2-h2c6b66d_1
++conda-forge/linux-64::sqlite-3.42.0-h2c6b66d_0
 +conda-forge/linux-64::tk-8.6.12-h27826a3_0
 +conda-forge/linux-64::xz-5.2.6-h166bdaf_0
 +conda-forge/linux-64::zlib-1.2.13-h166bdaf_4
